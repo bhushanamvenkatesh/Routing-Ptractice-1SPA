@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.contact-image {
+  height: 25%;
+  width: 25%;
+}
+
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #551e53;
+  margin-top: 90px;
+}

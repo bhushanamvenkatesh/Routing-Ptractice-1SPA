@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #551e53;
+  margin-top: 90px;
+}
+
+.about-image {
+  height: 25%;
+  width: 25%;
+}
+.about-para {
+  font-weight: 500;
+}

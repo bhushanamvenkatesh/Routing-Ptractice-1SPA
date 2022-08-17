@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+
+.home-image {
+  height: 25%;
+  width: 25%;
+}
+
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #551e53;
+  margin-top: 90px;
+}

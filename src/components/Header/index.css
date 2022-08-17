@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+
+.list {
+  list-style: none;
+  font-weight: 750;
+  display: flex;
+  justify-content: space-between;
+  width: 25%;
+  padding: 10px;
+}
+
+.nav-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.wave {
+  font-weight: 600;
+  color: #12022f;
+}
+
+.wave-logo {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
